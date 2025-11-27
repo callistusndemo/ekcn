@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Tue, 29 Apr 2025 13:56:57 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yemen</title>
+      <link>//localhost:1313/notes/yemen/</link>
+      <pubDate>Tue, 29 Apr 2025 13:56:57 -0400</pubDate>
+      <guid>//localhost:1313/notes/yemen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Farida</title>
+      <link>//localhost:1313/notes/farida/</link>
+      <pubDate>Thu, 20 Mar 2025 20:52:39 -0400</pubDate>
+      <guid>//localhost:1313/notes/farida/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urban Hawker</title>
+      <link>//localhost:1313/notes/urban-hawker/</link>
+      <pubDate>Sat, 22 Feb 2025 12:59:46 -0400</pubDate>
+      <guid>//localhost:1313/notes/urban-hawker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bar Moga</title>
+      <link>//localhost:1313/notes/bar-moga/</link>
+      <pubDate>Tue, 18 Feb 2025 22:29:41 -0400</pubDate>
+      <guid>//localhost:1313/notes/bar-moga/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brooklyn Nosh</title>
+      <link>//localhost:1313/notes/brooklyn-noosh/</link>
+      <pubDate>Wed, 05 Feb 2025 20:42:43 -0400</pubDate>
+      <guid>//localhost:1313/notes/brooklyn-noosh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello, World!</title>
+      <link>//localhost:1313/hello-world/</link>
+      <pubDate>Sun, 05 Jan 2025 02:52:28 +0000</pubDate>
+      <guid>//localhost:1313/hello-world/</guid>
+      <description>Intro note from C.</description>
+    </item>
+  </channel>
+</rss>

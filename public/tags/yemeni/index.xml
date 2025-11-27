@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yemeni on Home</title>
+    <link>//localhost:1313/tags/yemeni/</link>
+    <description>Recent content in Yemeni on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Tue, 29 Apr 2025 13:56:57 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/yemeni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yemen</title>
+      <link>//localhost:1313/notes/yemen/</link>
+      <pubDate>Tue, 29 Apr 2025 13:56:57 -0400</pubDate>
+      <guid>//localhost:1313/notes/yemen/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

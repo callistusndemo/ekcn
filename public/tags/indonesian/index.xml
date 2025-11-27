@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indonesian on Home</title>
+    <link>//localhost:1313/tags/indonesian/</link>
+    <description>Recent content in Indonesian on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Sat, 22 Feb 2025 12:59:46 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/indonesian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Urban Hawker</title>
+      <link>//localhost:1313/notes/urban-hawker/</link>
+      <pubDate>Sat, 22 Feb 2025 12:59:46 -0400</pubDate>
+      <guid>//localhost:1313/notes/urban-hawker/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

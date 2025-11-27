@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazakh on Home</title>
+    <link>//localhost:1313/tags/kazakh/</link>
+    <description>Recent content in Kazakh on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Thu, 20 Mar 2025 20:52:39 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/kazakh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farida</title>
+      <link>//localhost:1313/notes/farida/</link>
+      <pubDate>Thu, 20 Mar 2025 20:52:39 -0400</pubDate>
+      <guid>//localhost:1313/notes/farida/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
